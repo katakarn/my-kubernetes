@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: api-container
-        image: katakarn/log:latest
+        image: katakarn/log:v3.0
         ports:
         - containerPort: 8080
